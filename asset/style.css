@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  background-color: lightblue;
+  height: 10vh;
+  display: flex;
+}
+nav {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.link a {
+  margin-left: 50px;
+}
+
+.container {
+  padding-top: 2rem;
+  width: 80%;
+  margin: 0 auto;
+}
